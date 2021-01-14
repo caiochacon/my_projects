@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="wallpaper.png" >
+</p>
+
+
 # my_projects
 Repositório de projetos pessoais / Repository for personal projetcs 
 
